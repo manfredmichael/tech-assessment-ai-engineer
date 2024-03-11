@@ -17,7 +17,16 @@ Technical Assessment Submission
 
 # How to run yourself
 
+### Install
 1. `git clone https://github.com/manfredmichael/AI-Mentor-Tech-Assessment.git`
 2. `pip install -r requirements.txt`. Note: You might want to activate your virtual environment first.
 3. `streamlit run app.py`
+
+### Inference
+
+Inference on image:
+```python pipelines.py --input_type image --path <image_path>```
+
+Inference on video:
+```python pipelines.py --input_type video --path <video_path>```
 
