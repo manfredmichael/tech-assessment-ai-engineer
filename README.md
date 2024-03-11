@@ -18,7 +18,7 @@ Technical Assessment Submission
 # How to run yourself
 
 ### Install
-1. `git clone https://github.com/manfredmichael/AI-Mentor-Tech-Assessment.git`
+1. `https://github.com/manfredmichael/tech-assessment-ai-engineer.git`
 2. `pip install -r requirements.txt`. Note: You might want to activate your virtual environment first.
 3. `streamlit run app.py`
 
