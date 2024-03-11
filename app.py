@@ -93,6 +93,6 @@ if __name__ == "__main__":
 
     # with st.sidebar:
 
-    st.title("Face Fake Detection")
+    st.title("Ambulance & Truck Detection")
     setup()
     main()
