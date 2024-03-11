@@ -13,6 +13,7 @@ Technical Assessment Submission
 
 * Live Demo Interface: https://mrneuralnet-tech-assessment-kecilin.hf.space/
 * Solution: https://docs.google.com/document/d/1byOo0ORWWNT-isihYCadRm3K7LU5r41TxQidhQ0yuDQ/edit?usp=sharing
+* Training Report: https://api.wandb.ai/links/nodeflux-internship/eiwjg81c
 
 # How to run yourself
 
