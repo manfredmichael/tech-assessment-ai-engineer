@@ -1,4 +1,4 @@
-*/__pycache__/
+__pycache__/
 temps/*
 runs/*
 .ipynb_checkpoints/
