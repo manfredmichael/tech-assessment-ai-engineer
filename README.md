@@ -11,6 +11,7 @@
 Technical Assessment Submission
 </div>
 Live Demo Interface: https://mrneuralnet-tech-assessment-kecilin.hf.space/
+Solution: https://docs.google.com/document/d/1byOo0ORWWNT-isihYCadRm3K7LU5r41TxQidhQ0yuDQ/edit?usp=sharing
 
 # How to run yourself
 
